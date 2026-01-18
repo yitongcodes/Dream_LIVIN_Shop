@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.env
+.env.local
+*.pyc
+__pycache__
+.git
+.gitignore
+.vscode
+.idea
+outputs
+static
+frontend/dist
+frontend/node_modules
